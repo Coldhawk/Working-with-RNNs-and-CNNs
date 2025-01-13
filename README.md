@@ -2,8 +2,8 @@
 This project was created for the course Deep Learning for Science (YMX8170).
 
 Credit:
-- The Autoencoders and GAN are based on the work of Sebastian Raschka, the helper modules are also modified versions of his.[Link to source](https://github.com/rasbt/stat453-deep-learning-ss21/blob/main/L16/conv-autoencoder_mnist.ipynb)
-- The Dataset is the Y. Isaienkov LEGO Minigfigures pictures dataset.[Link to source]([https://github.com/rasbt/stat453-deep-learning-ss21/blob/main/L16/conv-autoencoder_mnist.ipynb](https://www.kaggle.com/datasets/ihelon/lego-minifigures-classification/data))
+- The Autoencoders and GAN are based on the work of Sebastian Raschka, the helper modules are also modified versions of his. [Link to source](https://github.com/rasbt/stat453-deep-learning-ss21/blob/main/L16/conv-autoencoder_mnist.ipynb)
+- The Dataset is the Y. Isaienkov LEGO Minigfigures pictures dataset. [Link to source](https://www.kaggle.com/datasets/ihelon/lego-minifigures-classification/data)
 - The PINN is based on the work of Ben Moseley. [Link to source](https://github.com/benmoseley/DLSC-2023/blob/main/lecture-5/PINN%20demo.ipynb)
 
 The project involves two tasks: 
