@@ -24,6 +24,7 @@ The Variational Autoencoder also takes 224p images and transforms them into (16,
 The GAN is a basic adversarial model that uses spherical coordinates, otherwise is standard. For the GAN Optuna hyperparameter tuning was used but this did not really change the results. The loss for both the discriminator and generator rise fast but platue around epoch 110. Generator loss is around 1, Discriminator loss aroung 0.5. The generated images at epoch 150 are very blurry and noisy as with the autoencoders, but you can somewhat make out the shape of a minifigure.
 
 **Task 2: PINN**
+
 This task involves the use of a Neural Network to solve a physics problem, in this case the heat equation of a uniform bar of length $L$, where one end is place on the origin and the other at $x = L$.
 The change in temperature is a partial differential equation which is a homogeneous inital boundary value problem solved with the Fourier method.
 
